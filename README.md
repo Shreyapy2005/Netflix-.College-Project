@@ -50,10 +50,10 @@ The Power BI dashboard presents important metrics and visualizations to help use
 
 **Dashboard screenshots:** Add your Power BI dashboard screenshots here.
 
-<!-- Example:
-![Netflix Dashboard](<img width="581" height="335" alt="image" src="https://github.com/user-attachments/assets/fe433cc7-3579-43f7-9ba3-d6cff81e498d" />
-)
--->
+
+<img width="581" height="335" alt="image" src="https://github.com/user-attachments/assets/fe433cc7-3579-43f7-9ba3-d6cff81e498d" />
+
+
 
 ## 💡 Key Learnings
 
