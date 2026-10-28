@@ -44,6 +44,32 @@ The project covers the complete data analytics process using Excel, SQL, Python,
 - Popular genres and content types
 - Overall content distribution and trends
 
+
+## Screenshot of Output 
+
+<img width="833" height="858" alt="Screenshot 2026-10-28 151313" src="https://github.com/user-attachments/assets/c6d360ad-a3d0-46cb-b8cf-64336d06d4ed" />
+
+
+<img width="1206" height="853" alt="Screenshot 2026-10-28 151405" src="https://github.com/user-attachments/assets/cd920283-0310-448d-99dc-c668f15e9e90" />
+
+
+<img width="1168" height="729" alt="Screenshot 2026-10-28 151449" src="https://github.com/user-attachments/assets/985770c3-9337-467d-997f-f82466fa1226" />
+
+<img width="1578" height="307" alt="Screenshot 2026-10-28 153328" src="https://github.com/user-attachments/assets/43a9e168-39af-475d-be02-b6a7c00a5309" />
+
+<img width="623" height="399" alt="Screenshot 2026-10-28 153437" src="https://github.com/user-attachments/assets/df9bbec7-c63a-4e9a-b5e7-1748f4cbe3fb" />
+
+<img width="564" height="354" alt="Screenshot 2026-10-28 153509" src="https://github.com/user-attachments/assets/aed52314-de00-4d71-a63f-d5d50180eef8" />
+
+<img width="999" height="564" alt="Screenshot 2026-10-28 153634" src="https://github.com/user-attachments/assets/ef4ce0fe-571f-453b-88a1-d68794e70918" />
+
+<img width="875" height="678" alt="Screenshot 2026-10-28 153719" src="https://github.com/user-attachments/assets/d138c53c-c5fc-4de3-9319-22a2c46f810a" />
+
+<img width="723" height="559" alt="Screenshot 2026-10-28 153747" src="https://github.com/user-attachments/assets/8c60a238-f47d-4fa1-8a25-17259ac53ad1" />
+
+<img width="585" height="333" alt="Screenshot 2026-10-28 153823" src="https://github.com/user-attachments/assets/5628cb1c-a93d-43d3-843c-931fb2fcccdc" />
+
+
 ## 📈 Dashboard
 
 The Power BI dashboard presents important metrics and visualizations to help users understand the Netflix content library.
